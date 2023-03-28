@@ -1,0 +1,12 @@
+{
+    "name": "node-server",
+    "description": "A sample Node.js app using Express 4",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "*",
+        "passport": "^0.6.0",
+        "winston": "^3.8.2"
+    },
+    "author": "Klement Svane Ballegaard",
+    "license": "MIT"
+}

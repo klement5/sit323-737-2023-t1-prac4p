@@ -1,0 +1,3 @@
+{"level":"info","message":"addition operation succesful. 5 + 10 = 15","service":"calculator-service"}
+{"level":"info","message":"multiply operation succesful. 5 * 10 = 50","service":"calculator-service"}
+{"level":"error","message":"second parameter in multiply is incorrectly defined","service":"calculator-service"}
